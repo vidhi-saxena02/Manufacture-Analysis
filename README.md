@@ -1,4 +1,4 @@
-In the project directory, you can run:
+In the project directory ( cd .\Manufacture-Analysis\ ), you can run:
 
 ### `yarn install`
 
